@@ -35,11 +35,11 @@ namespace RockPaperScissorsGame
 }
 ```
 - Step 5: Create a player object with the variable
--- String : Name
+``String : Name``
 - Step 6: Create a game object with the variables
--- Player : Player
--- Int : Wins
--- Int : Losses
+``Player : Player``
+``Int : Wins``
+``Int : Losses``
 - Step 7: In the game object add the method Play()
 -- In this method you will add the rock, paper, scissors logic
 -- Ask for move input (rock, paper, or scissors)
